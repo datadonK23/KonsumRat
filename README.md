@@ -4,7 +4,7 @@ Homepage Prototype: Rev. Konsument*InnenRat des KS
 
 ## Objectives
 * Try out Zola site-generator
-* tba
+* tbd
 
 
 ## Contributors
