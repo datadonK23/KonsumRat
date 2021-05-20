@@ -57,7 +57,7 @@ webmanifest = "/icons/site.webmanifest"
 
 [extra.author]
 name = "Rev. Konsument*InnenRat des KS"
-avatar = "KonsumRat/images/konsrat_logo.png"
+avatar = "/images/konsrat_logo.png"
 
 [extra.social]
 facebook = "RatanShreshtha"
