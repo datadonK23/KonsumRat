@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://datadonK23.github.io/KonsumRat"
+base_url = "https://ttreml.me/KonsumRat"
 default_language = "de"
 
 # Whether to automatically compile all Sass files in the sass directory
