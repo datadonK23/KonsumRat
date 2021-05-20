@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://ttreml.me/KonsumRat"
+base_url = "https://ttreml.me/KonsumRat/"
 default_language = "de"
 
 # Whether to automatically compile all Sass files in the sass directory
@@ -57,7 +57,7 @@ webmanifest = "/icons/site.webmanifest"
 
 [extra.author]
 name = "Rev. Konsument*InnenRat des KS"
-avatar = "/images/konsrat_logo.png"
+avatar = "KonsumRat/images/konsrat_logo.png"
 
 [extra.social]
 facebook = "RatanShreshtha"
