@@ -1,6 +1,6 @@
 +++
-title = "Posts"
-description = "Blog posts accumulated over the time."
+title = "Kundmachungen"
+description = "INoffizielle Aktivitäten und Kommentare"
 sort_by = "date"
 paginate_by = 5
 +++
