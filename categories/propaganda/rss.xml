@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+      <title>Rev. Konsument*InnenRat des KS - Propaganda</title>
+        <link>https://ttreml.me/KonsumRat/</link>
+        <description></description>
+        <generator>Zola</generator>
+        <language>de</language>
+        <atom:link href="https://ttreml.me/KonsumRat/categories/propaganda/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 21 May 2021 00:00:00 +0000</lastBuildDate>
+        <item>
+            <title>Alkoholverbot für ALLE, oder NIEMAND!</title>
+            <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+            <link>https://ttreml.me/KonsumRat/posts/post-12/</link>
+            <guid>https://ttreml.me/KonsumRat/posts/post-12/</guid>
+            <description>&lt;p&gt;Es ist die Zeit der &lt;em&gt;kleinen&lt;&#x2F;em&gt; Öffnungsschritte. Auch das Provinztheater der Stadt hat wieder geöffnet und gibt ein neues &lt;em&gt;kleinbürgerliches&lt;&#x2F;em&gt; Stück zum Besten. Der Konsum von alkoholischen Getränken soll hinkünftig am Stadtplatz verboten sein. Als KaffeeKonsument*Innen erklären wir uns natürlich solidarisch mit allen unterdrückten Konsument*InnenKlassen, insbesonders denjenigen in unmittelbarer Nachbarschaft.&lt;&#x2F;p&gt;
+</description>
+        </item>
+    </channel>
+</rss>
